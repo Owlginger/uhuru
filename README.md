@@ -1,6 +1,6 @@
-## Welcome to GitHub Pages
+## Uhuru REST Framework
 
-You can use the [editor on GitHub](https://github.com/Owlginger/uhuru/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+A tool to easily integrate your fron-end to your back-end RESTful resources.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
